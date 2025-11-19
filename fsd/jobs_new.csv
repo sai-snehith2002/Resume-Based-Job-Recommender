@@ -1,0 +1,616 @@
+﻿Job Experience Required,Key Skills,Job Title
+0-4,"Java, Spring, Microservices, Hibernate, REST APIs, SQL, Docker", Java Developer
+0-4,"HTML, CSS, JavaScript, React, Redux, Node.js, Git",Frontend Developer
+0-4,"Python, Machine Learning, Data Analysis, Pandas, NumPy, Scikit-Learn, TensorFlow",Machine Learning Engineer
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Technician
+0-4,"Content Writing, Blogging, SEO, Social Media, Copywriting, WordPress, HTML",Content Writer
+0-4,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Network Engineer
+0-4,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography, Branding",Graphic Designer
+0-4,"Data Analysis, SQL, Excel, Python, Tableau, Power BI, Data Visualization",Data Analyst
+0-4,"Digital Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Digital Marketing Specialist
+0-4,"Web Development, HTML, CSS, JavaScript, PHP, WordPress, Git, SEO",Web Developer
+0-4,"Customer Service, Call Center, CRM, Communication, Problem Solving, Active Listening, Time Management",Customer Service Representative
+0-4,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Technician
+0-4,"Python, Data Processing, Machine Learning, Data Visualization, SQL, Pandas, NumPy", Data Engineer
+0-4,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms", Software Developer
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Technician
+0-4,"Web Development, HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, MySQL",Web Developer
+0-4,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization", Data Scientist
+0-4,"Mechanical Engineering, CAD, SolidWorks, Product Design, Manufacturing, Prototyping, FEA", Mechanical Engineer
+0-4,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers", Electrical Engineer
+0-4,"Content Writing, Blogging, SEO, Social Media, Copywriting, WordPress, HTML",Content Specialist
+0-4,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Clerk
+0-4,"Finance, Financial Analysis, Budgeting, Forecasting, Excel, Accounting, SAP", Financial Analyst
+0-4,"Software Development, .NET, C#, ASP.NET, MVC, SQL Server, REST APIs, Agile",.NET Developer
+0-4,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing", SEO Specialist
+0-4,"Electrical Engineering, Power Systems, Electrical Design, MATLAB, AutoCAD, PLC Programming, Testing", Power Systems Engineer
+0-4,"Python, Data Analysis, Machine Learning, Data Wrangling, SQL, R, Visualization",Data Scientist
+0-4,"Human Resources, Recruitment, Talent Acquisition, Employee Relations, HRIS, Performance Management, Training and Development",HR Specialist
+0-4,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Business Analyst
+0-4,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Marketing Specialist
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Assistant
+0-4,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers", Electrical Engineer
+0-4,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Specialist
+0-4,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms", Software Developer
+0-4,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography, Branding", Graphic Designer
+0-4,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Data Analyst
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Technician
+0-4,"Web Development, HTML, CSS, JavaScript, PHP, WordPress, Git, SEO",Web Developer
+0-4,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting", Network Engineer
+0-4,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Engineer
+0-4,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Marketing Specialist
+0-4,"Python, Machine Learning, Data Analysis, Pandas, NumPy, Scikit-Learn, TensorFlow", Data Scientist
+0-4,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers",Electrical Engineer
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Assistant
+0-4,"Content Writing, Blogging, SEO, Social Media, Copywriting, WordPress, HTML",Content Writer
+0-4,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Clerk
+0-4,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Software Engineer
+0-4,"Web Development, HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, MySQL", Web Developer
+0-4,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization", Data Analyst
+0-4,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Marketing Specialist
+0-4,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Network Engineer
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Technician
+0-4,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography, Branding",Graphic Designer
+0-4,"Python, Data Analysis, Machine Learning, Data Wrangling, SQL, R, Visualization",Data Scientist
+0-4,"Human Resources, Recruitment, Talent Acquisition, Employee Relations, HRIS, Performance Management, Training and Development",HR Specialist
+0-4,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Business Analyst
+0-4,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Marketing Specialist
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Assistant
+0-4,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers", Electrical Engineer
+0-4,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Specialist
+0-4,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms", Software Developer
+0-4,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography, Branding", Graphic Designer
+0-4,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Data Analyst
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Technician
+0-4,"Web Development, HTML, CSS, JavaScript, PHP, WordPress, Git, SEO",Web Developer
+0-4,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting", Network Engineer
+0-4,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Engineer
+0-4,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Marketing Specialist
+0-4,"Python, Machine Learning, Data Analysis, Pandas, NumPy, Scikit-Learn, TensorFlow", Data Scientist
+0-4,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers",Electrical Engineer
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Assistant
+0-4,"Content Writing, Blogging, SEO, Social Media, Copywriting, WordPress, HTML",Content Writer
+0-4,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Clerk
+0-4,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Software Engineer
+0-4,"Web Development, HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, MySQL", Web Developer
+0-4,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization", Data Analyst
+0-4,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Marketing Specialist
+0-4,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Network Engineer
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Technician
+0-4,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography, Branding",Graphic Designer
+0-4,"Python, Data Analysis, Machine Learning, Data Wrangling, SQL, R, Visualization",Data Scientist
+0-4,"Human Resources, Recruitment, Talent Acquisition, Employee Relations, HRIS, Performance Management, Training and Development",HR Specialist
+0-4,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Business Analyst
+0-4,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Marketing Specialist
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Assistant
+0-4,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers", Electrical Engineer
+0-4,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Specialist
+0-4,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms", Software Developer
+0-4,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography, Branding", Graphic Designer
+0-4,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Data Analyst
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Technician
+0-4,"Web Development, HTML, CSS, JavaScript, PHP, WordPress, Git, SEO",Web Developer
+0-4,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting", Network Engineer
+0-4,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Engineer
+0-4,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Marketing Specialist
+0-4,"Python, Machine Learning, Data Analysis, Pandas, NumPy, Scikit-Learn, TensorFlow", Data Scientist
+0-4,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers",Electrical Engineer
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Assistant
+0-4,"Content Writing, Blogging, SEO, Social Media, Copywriting, WordPress, HTML",Content Writer
+0-4,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Clerk
+0-4,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Software Engineer
+0-4,"Web Development, HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, MySQL", Web Developer
+0-4,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization", Data Analyst
+0-4,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Marketing Specialist
+0-4,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Network Engineer
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Technician
+0-4,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography, Branding",Graphic Designer
+0-4,"Python, Data Analysis, Machine Learning, Data Wrangling, SQL, R, Visualization",Data Scientist
+0-4,"Human Resources, Recruitment, Talent Acquisition, Employee Relations, HRIS, Performance Management, Training and Development",HR Specialist
+0-4,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Business Analyst
+0-4,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Marketing Specialist
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Assistant
+0-4,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers", Electrical Engineer
+0-4,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Specialist
+0-4,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms", Software Developer
+0-4,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography, Branding", Graphic Designer
+0-4,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Data Analyst
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Technician
+0-4,"Web Development, HTML, CSS, JavaScript, PHP, WordPress, Git, SEO",Web Developer
+0-4,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting", Network Engineer
+0-4,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Engineer
+0-4,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Marketing Specialist
+0-4,"Python, Machine Learning, Data Analysis, Pandas, NumPy, Scikit-Learn, TensorFlow", Data Scientist
+0-4,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers",Electrical Engineer
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Assistant
+0-4,"Content Writing, Blogging, SEO, Social Media, Copywriting, WordPress, HTML",Content Writer
+0-4,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Clerk
+0-4,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Software Engineer
+0-4,"Web Development, HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, MySQL", Web Developer
+0-4,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization", Data Analyst
+0-4,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Marketing Specialist
+0-4,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Network Engineer
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Technician
+0-4,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography, Branding",Graphic Designer
+0-4,"Python, Data Analysis, Machine Learning, Data Wrangling, SQL, R, Visualization",Data Scientist
+0-4,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Business Analyst
+0-4,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Marketing Specialist
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Assistant
+0-4,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers", Electrical Engineer
+0-4,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Specialist
+0-4,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms", Software Developer
+0-4,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography, Branding", Graphic Designer
+0-4,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Data Analyst
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Technician
+0-4,"Web Development, HTML, CSS, JavaScript, PHP, WordPress, Git, SEO",Web Developer
+0-4,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting", Network Engineer
+0-4,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Engineer
+0-4,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Marketing Specialist
+0-4,"Python, Machine Learning, Data Analysis, Pandas, NumPy, Scikit-Learn, TensorFlow", Data Scientist
+0-4,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers",Electrical Engineer
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Assistant
+0-4,"Content Writing, Blogging, SEO, Social Media, Copywriting, WordPress, HTML",Content Writer
+0-4,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Clerk
+0-4,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Software Engineer
+0-4,"Web Development, HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, MySQL", Web Developer
+0-4,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization", Data Analyst
+0-4,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Marketing Specialist
+0-4,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Network Engineer
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Technician
+0-4,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography, Branding",Graphic Designer
+0-4,"Python, Data Analysis, Machine Learning, Data Wrangling, SQL, R, Visualization",Data Scientist
+0-4,"Human Resources, Recruitment, Talent Acquisition, Employee Relations, HRIS, Performance Management, Training and Development",HR Specialist
+0-4,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Business Analyst
+0-4,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Marketing Specialist
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Assistant
+0-4,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers", Electrical Engineer
+0-4,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Specialist
+0-4,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms", Software Developer
+0-4,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography, Branding", Graphic Designer
+0-4,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Data Analyst
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Technician
+0-4,"Web Development, HTML, CSS, JavaScript, PHP, WordPress, Git, SEO",Web Developer
+0-4,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting", Network Engineer
+0-4,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Engineer
+0-4,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Marketing Specialist
+0-4,"Python, Machine Learning, Data Analysis, Pandas, NumPy, Scikit-Learn, TensorFlow", Data Scientist
+0-4,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers",Electrical Engineer
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Assistant
+0-4,"Content Writing, Blogging, SEO, Social Media, Copywriting, WordPress, HTML",Content Writer
+0-4,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Clerk
+0-4,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Software Engineer
+0-4,"Web Development, HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, MySQL", Web Developer
+0-4,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization", Data Analyst
+0-4,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Marketing Specialist
+0-4,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Network Engineer
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Technician
+0-4,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography, Branding",Graphic Designer
+0-4,"Python, Data Analysis, Machine Learning, Data Wrangling, SQL, R, Visualization",Data Scientist
+0-4,"Human Resources, Recruitment, Talent Acquisition, Employee Relations, HRIS, Performance Management, Training and Development",HR Specialist
+0-4,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Business Analyst
+0-4,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Marketing Specialist
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Assistant
+0-4,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers", Electrical Engineer
+0-4,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Specialist
+0-4,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Software Developer
+0-4,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography, Branding", Graphic Designer
+0-4,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Data Analyst
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Technician
+0-4,"Web Development, HTML, CSS, JavaScript, PHP, WordPress, Git, SEO",Web Developer
+0-4,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Network Engineer
+0-4,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Engineer
+0-4,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Marketing Specialist
+0-4,"Python, JavaScript, HTML, CSS, SQL, Git, Linux",Software Developer
+6-8.,"Java, Spring, Microservices, Hibernate, REST APIs, SQL, Docker",Senior Java Developer
+1-3.,"Python, Machine Learning, Data Analysis, Pandas, NumPy, Scikit-Learn, TensorFlow",Machine Learning Engineer
+2-6.,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Network Engineer
+7-9.,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Marketing Director
+2-7.,"HTML, CSS, JavaScript, React, Redux, Node.js, Git",Frontend Developer
+8-7.,"Data Analysis, SQL, Excel, Python, Tableau, Power BI, Data Visualization",Data Analyst
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Technician
+3-8.,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers",Electrical Engineer
+1-4.,"Cloud Computing, AWS, Azure, Google Cloud, DevOps, Kubernetes, Docker",Cloud Solutions Architect
+1-3.,"Content Writing, Blogging, SEO, Social Media, Copywriting, WordPress, HTML",Content Writer
+2-6.,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Business Analyst
+7-9.,"Cybersecurity, Penetration Testing, Ethical Hacking, Risk Management, Compliance, SIEM, Incident Response",Cybersecurity Specialist
+2-7.,"Mobile Development, iOS, Android, Swift, Kotlin, React Native, Git",Mobile Developer
+8-7.,"UX Design, User Research, Prototyping, Wireframing, Figma, Sketch, Adobe XD",UX Designer
+0-4,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography, Branding",Graphic Designer
+3-8.,"Finance, Financial Analysis, Budgeting, Forecasting, Excel, Accounting, SAP",Financial Analyst
+6-8.,"Full Stack Development, JavaScript, Python, Java, SQL, React, Node.js",Full Stack Developer
+1-3.,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization", Data Scientist
+2-6.,"Software Testing, Quality Assurance, Manual Testing, Automated Testing, Selenium, JIRA, TestNG",QA Tester
+7-9.,"Systems Engineering, ITIL, Project Management, Systems Integration, Requirements Analysis, Risk Management, Agile",Systems Engineer
+2-7.,"Digital Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Digital Marketing Specialist
+8-7.,"Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks, Python, TensorFlow, Keras",AI Engineer
+0-4,"Customer Service, Call Center, CRM, Communication, Problem Solving, Active Listening, Time Management",Customer Service Representative
+3-8.,"Electrical Engineering, Power Systems, Electrical Design, MATLAB, AutoCAD, PLC Programming, Testing",Power Systems Engineer
+6-8.,"Database Administration, SQL, Oracle, MySQL, Performance Tuning, Backup and Recovery, Data Migration",Database Administrator
+1-3.,"Web Development, HTML, CSS, JavaScript, PHP, WordPress, Git, SEO",Web Developer
+2-6.,"Human Resources, Recruitment, Talent Acquisition, Employee Relations, HRIS, Performance Management, Training and Development",HR Manager
+7-9.,"Business Intelligence, SQL, Power BI, Tableau, Data Warehousing, Data Modeling, ETL",BI Developer
+2-7.,"Mechanical Engineering, CAD, SolidWorks, Product Design, Manufacturing, Prototyping, FEA",Mechanical Engineer
+8-7.,"Cloud Security, AWS, Azure, Google Cloud, IAM, Compliance, Network Security",Cloud Security Engineer
+0-4,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms", Software Developer
+3-8.,"Marketing Strategy, Digital Marketing, Social Media, Content Creation, SEO, Google Analytics, Campaign Management",Marketing Specialist
+6-8.,"IT Management, IT Strategy, IT Operations, Project Management, Budgeting, Vendor Management, Leadership",IT Manager
+1-3.,"Python, Data Processing, Machine Learning, Data Visualization, SQL, Pandas, NumPy", Data Engineer
+2-6.,"Software Development, .NET, C#, ASP.NET, MVC, SQL Server, REST APIs, Agile",.NET Developer
+7-9.,"Machine Learning, Data Science, Python, R, TensorFlow, Keras, Scikit-Learn",Senior Data Scientist
+2-7.,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Engineer
+8-7.,"Electrical Design, PCB Design, Microcontrollers, Embedded Systems, CAD, Circuit Design, Testing",PCB Design Engineer
+0-4,"Digital Marketing, SEO, Social Media, Content Creation, Google Analytics, AdWords, Email Marketing",Digital Marketing Assistant
+3-8.,"Software Engineering, Java, Spring, Hibernate, Microservices, REST APIs, Docker, Kubernetes",Software Engineer
+6-8.,"Product Management, Agile, Scrum, Product Roadmaps, User Stories, Market Research, Stakeholder Management",Product Manager
+1-3.,"Web Development, HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, MySQL",Web Designer
+2-6.,"Python, Data Analysis, Machine Learning, Data Wrangling, SQL, R, Visualization",Data Scientist
+7-9.,"Electrical Engineering, Power Distribution, Circuit Design, MATLAB, AutoCAD, Testing, PLC Programming",Senior Electrical Engineer
+2-7.,"Marketing, Brand Management, Digital Marketing, SEO, Content Marketing, Social Media, Google Analytics",Brand Manager
+8-7.,"Cloud Computing, AWS, Azure, Google Cloud, DevOps, Kubernetes, Docker",Senior Cloud Engineer
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Technician
+3-8.,"Finance, Financial Analysis, Budgeting, Forecasting, Excel, Accounting, SAP",Financial Analyst
+6-8.,"Machine Learning, Data Science, Python, R, TensorFlow, Keras, Scikit-Learn",Principal Data Scientist
+1-3.,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Specialist
+2-6.,"Digital Marketing, SEO, Content Creation, Social Media, Google Analytics, Email Marketing, Campaign Management",Marketing Manager
+7-9.,"IT Security, Cybersecurity, Risk Management, Compliance, Penetration Testing, Incident Response, SIEM",Senior IT Security Analyst
+2-7.,"Software Development, JavaScript, Node.js, React, Redux, MongoDB, Express.js",Full Stack Developer
+8-7.,"Electrical Engineering, Circuit Design, PCB Design, Microcontrollers, CAD, Testing, Simulation",Electrical Design Engineer
+0-4,"Customer Service, Call Center, CRM, Communication, Problem Solving, Active Listening, Time Management",Customer Service Representative
+3-8.,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Technician
+6-8.,"Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks, Python, TensorFlow, Keras",AI Research Scientist
+1-3.,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing", SEO Specialist
+2-6.,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Senior Business Analyst
+7-9.,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Senior Network Engineer
+2-7.,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Data Analyst
+8-7.,"Full Stack Development, JavaScript, Python, Java, SQL, React, Node.js",Senior Full Stack Developer
+0-4,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography, Branding", Graphic Designer
+3-8.,"Software Testing, Quality Assurance, Manual Testing, Automated Testing, Selenium, JIRA, TestNG",QA Engineer
+6-8.,"UX Design, User Research, Prototyping, Wireframing, Figma, Sketch, Adobe XD",Senior UX Designer
+1-3.,"Web Development, HTML, CSS, JavaScript, PHP, WordPress, Git, SEO",Web Developer
+2-6.,"Machine Learning, Data Science, Python, R, TensorFlow, Keras, Scikit-Learn",Machine Learning Specialist
+7-9.,"Cybersecurity, Penetration Testing, Ethical Hacking, Risk Management, Compliance, SIEM, Incident Response",Senior Cybersecurity Specialist
+2-7.,"Data Analysis, SQL, Excel, Python, Tableau, Power BI, Data Visualization", Data Analyst
+8-7.,"Cloud Computing, AWS, Azure, Google Cloud, DevOps, Kubernetes, Docker",Cloud Architect
+0-4,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Assistant
+3-8.,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Marketing Specialist
+6-8.,"Electrical Engineering, Power Systems, Electrical Design, MATLAB, AutoCAD, PLC Programming, Testing",Senior Power Systems Engineer
+1-3.,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Software Engineer
+2-6.,"Digital Marketing, SEO, Social Media, Content Creation, Google Analytics, AdWords, Email Marketing",Digital Marketing Manager
+7-9.,"IT Management, IT Strategy, IT Operations, Project Management, Budgeting, Vendor Management, Leadership",Senior IT Manager
+2-7.,"Finance, Financial Analysis, Budgeting, Forecasting, Excel, Accounting, SAP", Financial Analyst
+8-7.,"Python, Data Processing, Machine Learning, Data Visualization, SQL, Pandas, NumPy",Data Engineer
+0-4,"Web Development, HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, MySQL",Web Developer
+3-8.,"Human Resources, Recruitment, Talent Acquisition, Employee Relations, HRIS, Performance Management, Training and Development",HR Specialist
+6-8.,"Business Intelligence, SQL, Power BI, Tableau, Data Warehousing, Data Modeling, ETL",Senior BI Developer
+1-3.,"Mechanical Engineering, CAD, SolidWorks, Product Design, Manufacturing, Prototyping, FEA", Mechanical Engineer
+2-6.,"Software Development, .NET, C#, ASP.NET, MVC, SQL Server, REST APIs, Agile",.NET Developer
+7-9.,"Cloud Security, AWS, Azure, Google Cloud, IAM, Compliance, Network Security",Senior Cloud Security Engineer
+2-7.,"Content Writing, Blogging, SEO, Social Media, Copywriting, WordPress, HTML",Content Specialist
+8-7.,"Project Management, Agile, Scrum, Risk Management, Communication, Jira, Confluence",Senior Project Manager
+0-4,"Data Analysis, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Clerk
+3-8.,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers",Electrical Engineer
+6-8.,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Senior Marketing Manager
+1-3.,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Technician
+2-6.,"Cybersecurity, Penetration Testing, Ethical Hacking, Risk Management, Compliance, SIEM, Incident Response",Cybersecurity Analyst
+7-9.,"UX Design, User Research, Prototyping, Wireframing, Figma, Sketch, Adobe XD",Principal UX Designer
+2-7.,"Mobile Development, iOS, Android, Swift, Kotlin, React Native, Git",Mobile App Developer
+8-7.,"Data Analysis, SQL, Excel, Python, Tableau, Power BI, Data Visualization",Senior Data Analyst
+0-4,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Assistant
+3-8.,"Software Engineering, Java, Spring, Hibernate, Microservices, REST APIs, Docker, Kubernetes",Software Developer
+6-8.,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Lead Business Analyst
+1-3.,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers", Electrical Engineer
+2-6.,"Machine Learning, Data Science, Python, R, TensorFlow, Keras, Scikit-Learn",Senior Machine Learning Engineer
+7-9.,"Cloud Computing, AWS, Azure, Google Cloud, DevOps, Kubernetes, Docker",Cloud Solutions Architect
+2-7.,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Marketing Specialist
+8-7.,"IT Management, IT Strategy, IT Operations, Project Management, Budgeting, Vendor Management, Leadership",IT Director
+0-4,"Python, Machine Learning, Data Analysis, Pandas, NumPy, Scikit-Learn, TensorFlow", Data Scientist
+3-8.,"Web Development, HTML, CSS, JavaScript, PHP, WordPress, Git, SEO",Senior Web Developer
+6-8.,"Electrical Engineering, Power Systems, Electrical Design, MATLAB, AutoCAD, PLC Programming, Testing",Senior Electrical Engineer
+1-3.,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting", Network Engineer
+2-6.,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Data Scientist
+7-9.,"Cybersecurity, Penetration Testing, Ethical Hacking, Risk Management, Compliance, SIEM, Incident Response",Senior Cybersecurity Specialist
+2-7.,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Specialist
+8-7.,"UX Design, User Research, Prototyping, Wireframing, Figma, Sketch, Adobe XD",UX Designer
+0-4,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms", Software Developer
+3-8.,"Cloud Computing, AWS, Azure, Google Cloud, DevOps, Kubernetes, Docker",Cloud Engineer
+6-8.,"Marketing, Brand Management, Digital Marketing, SEO, Content Marketing, Social Media, Google Analytics",Senior Marketing Specialist
+1-3.,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Engineer
+2-6.,"Project Management, Agile, Scrum, Risk Management, Communication, Jira, Confluence",Project Manager
+7-9.,"Machine Learning, Data Science, Python, R, TensorFlow, Keras, Scikit-Learn",AI Specialist
+0-3,"Java, C++, Python, Git, Data Structures, Algorithms", Software Developer
+1-4.,"Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography, Branding", Graphic Designer
+0-2,"Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Clerk
+2-5.,"HRIS, Employee Relations, Talent Acquisition, Performance Management, Training and Development",HR Generalist
+3-8.,"Project Management, Agile, Scrum, Stakeholder Management, Risk Management",Project Manager
+0-3,"HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, MySQL", Web Developer
+1-3.,"Content Writing, Blogging, SEO, Social Media, Copywriting, WordPress, HTML",Content Writer
+0-2,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media",Marketing Specialist
+4-10.,"Python, Data Analysis, Machine Learning, Data Wrangling, SQL, R, Visualization",Senior Data Scientist
+3-6.,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Engineer
+2-5.,"Financial Analysis, Excel, Financial Modeling, Budgeting, Forecasting, SQL",Financial Analyst
+0-2,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Data Analyst
+1-4.,"Recruitment, Employee Relations, Performance Management, Training and Development",HR Specialist
+2-5.,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Business Analyst
+3-7.,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Network Engineer
+4-10.,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Marketing Manager
+0-2,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Assistant
+2-5.,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers",Electrical Engineer
+5-10.,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Senior Software Engineer
+3-8.,"Database Management, SQL, Oracle, MySQL, PostgreSQL, Data Warehousing",Database Administrator
+0-3,"Social Media Management, Content Creation, SEO, Digital Marketing, Copywriting",Social Media Coordinator
+1-4.,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography",Graphic Designer
+3-6.,"IT Support, Help Desk, Troubleshooting, Networking, Windows, Linux, Hardware",Senior IT Support Specialist
+4-10.,"Cloud Computing, AWS, Azure, DevOps, Infrastructure, Automation",Cloud Solutions Architect
+2-5.,"HR Management, Recruitment, Employee Relations, Performance Management, Training and Development",HR Manager
+5-10.,"Marketing Strategy, Digital Marketing, SEO, Brand Management, Google Analytics",Digital Marketing Director
+0-2,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Technician
+2-5.,"Python, Machine Learning, Data Analysis, Pandas, NumPy, Scikit-Learn, TensorFlow",Data Scientist
+3-8.,"Business Analysis, Process Improvement, Change Management, Agile, Scrum",Business Process Consultant
+1-3.,"Customer Service, CRM, Communication, Problem Solving, Sales Support",Customer Service Representative
+4-10.,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Lead Data Scientist
+2-6.,"Financial Reporting, Accounting, Excel, Budgeting, Forecasting, QuickBooks",Senior Accountant
+0-3,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory", IT Support Engineer
+3-7.,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers",Senior Electrical Engineer
+2-5.,"Web Development, HTML, CSS, JavaScript, PHP, WordPress, Git, SEO",Web Developer
+4-10.,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media",Marketing Director
+1-4.,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Specialist
+5-10.,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Principal Software Engineer
+3-8.,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Senior Network Engineer
+0-2,"Python, Data Analysis, Machine Learning, Data Wrangling, SQL, R, Visualization", Data Scientist
+2-5.,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography",Senior Graphic Designer
+4-8.,"Project Management, Agile, Scrum, Stakeholder Management, Risk Management",Senior Project Manager
+2-5.,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Specialist
+1-4.,"Digital Marketing, SEO, Google Analytics, AdWords, Social Media, Content Marketing",Digital Marketing Specialist
+3-7.,"Database Management, SQL, Oracle, MySQL, PostgreSQL, Data Warehousing",Senior Database Administrator
+0-2,"JavaScript, React, HTML, CSS, Git, Web Development", Frontend Developer
+5-10.,"HR Management, Talent Acquisition, Employee Relations, Performance Management, HRIS",HR Director
+2-6.,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Senior Business Analyst
+0-3,"Customer Service, CRM, Communication, Problem Solving, Sales Support",Customer Support Specialist
+4-10.,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Chief Marketing Officer (CMO)
+1-4.,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Technician
+3-8.,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Senior Data Analyst
+0-2,"Content Writing, Blogging, SEO, Social Media, Copywriting, WordPress, HTML", Content Writer
+2-5.,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Engineer
+5-10.,"Project Management, Agile, Scrum, Stakeholder Management, Risk Management",Program Manager
+1-4.,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Associate Business Analyst
+0-2,"Web Development, HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, MySQL",Web Development Intern
+3-6.,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",Senior IT Support Engineer
+2-5.,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Marketing Specialist
+4-10.,"Financial Analysis, Excel, Financial Modeling, Budgeting, Forecasting, SQL",Senior Financial Analyst
+3-8.,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Lead Software Developer
+0-3,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography",Graphic Design Intern
+2-5.,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Data Analyst
+3-7.,"IT Support, Help Desk, Troubleshooting, Networking, Windows, Linux, Hardware",IT Support Manager
+5-10.,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Principal Network Engineer
+0-2,"Java, C++, Python, Git, Data Structures, Algorithms",Software Developer Intern
+2-6.,"Digital Marketing, SEO, Google Analytics, AdWords, Social Media, Content Marketing",Senior Digital Marketing Specialist
+4-10.,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers",Principal Electrical Engineer
+1-4.,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Specialist
+5-10.,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Lead Business Analyst
+0-2,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software", IT Technician
+3-6.,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Senior Marketing Specialist
+2-5.,"Python, Machine Learning, Data Analysis, Pandas, NumPy, Scikit-Learn, TensorFlow",Data Scientist
+4-10.,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Principal Software Engineer
+3-8.,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Senior Network Engineer
+0-2,"Python, Data Analysis, Machine Learning, Data Wrangling, SQL, R, Visualization", Data Scientist
+2-5.,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography",Senior Graphic Designer
+4-8.,"Project Management, Agile, Scrum, Stakeholder Management, Risk Management",Senior Project Manager
+2-5.,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Specialist
+1-4.,"Digital Marketing, SEO, Google Analytics, AdWords, Social Media, Content Marketing",Digital Marketing Specialist
+3-7.,"Database Management, SQL, Oracle, MySQL, PostgreSQL, Data Warehousing",Senior Database Administrator
+0-2,"JavaScript, React, HTML, CSS, Git, Web Development", Frontend Developer
+5-10.,"HR Management, Talent Acquisition, Employee Relations, Performance Management, HRIS",HR Director
+2-6.,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Senior Business Analyst
+0-3,"Customer Service, CRM, Communication, Problem Solving, Sales Support",Customer Support Specialist
+4-10.,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Chief Marketing Officer (CMO)
+1-4.,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Technician
+3-8.,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Senior Data Analyst
+0-2,"Content Writing, Blogging, SEO, Social Media, Copywriting, WordPress, HTML", Content Writer
+2-5.,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Engineer
+5-10.,"Project Management, Agile, Scrum, Stakeholder Management, Risk Management",Program Manager
+1-4.,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Associate Business Analyst
+0-2,"Web Development, HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, MySQL",Web Development Intern
+3-6.,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",Senior IT Support Engineer
+2-5.,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Marketing Specialist
+4-10.,"Financial Analysis, Excel, Financial Modeling, Budgeting, Forecasting, SQL",Senior Financial Analyst
+3-8.,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Lead Software Developer
+0-3,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography",Graphic Design Intern
+2-5.,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Data Analyst
+3-7.,"IT Support, Help Desk, Troubleshooting, Networking, Windows, Linux, Hardware",IT Support Manager
+5-10.,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Principal Network Engineer
+0-2,"Java, C++, Python, Git, Data Structures, Algorithms",Software Developer Intern
+2-6.,"Digital Marketing, SEO, Google Analytics, AdWords, Social Media, Content Marketing",Senior Digital Marketing Specialist
+4-10.,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers",Principal Electrical Engineer
+1-4.,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Specialist
+5-10.,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Lead Business Analyst
+0-2,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software", IT Technician
+3-6.,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Senior Marketing Specialist
+2-5.,"Python, Machine Learning, Data Analysis, Pandas, NumPy, Scikit-Learn, TensorFlow",Data Scientist
+4-10.,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Principal Software Engineer
+3-8.,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Senior Network Engineer
+0-2,"Python, Data Analysis, Machine Learning, Data Wrangling, SQL, R, Visualization", Data Scientist
+2-5.,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography",Senior Graphic Designer
+4-8.,"Project Management, Agile, Scrum, Stakeholder Management, Risk Management",Senior Project Manager
+2-5.,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Specialist
+1-4.,"Digital Marketing, SEO, Google Analytics, AdWords, Social Media, Content Marketing",Digital Marketing Specialist
+3-7.,"Database Management, SQL, Oracle, MySQL, PostgreSQL, Data Warehousing",Senior Database Administrator
+0-2,"JavaScript, React, HTML, CSS, Git, Web Development", Frontend Developer
+5-10.,"HR Management, Talent Acquisition, Employee Relations, Performance Management, HRIS",HR Director
+2-6.,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Senior Business Analyst
+0-3,"Customer Service, CRM, Communication, Problem Solving, Sales Support",Customer Support Specialist
+4-10.,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Chief Marketing Officer (CMO)
+1-4.,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Technician
+3-8.,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Senior Data Analyst
+0-2,"Content Writing, Blogging, SEO, Social Media, Copywriting, WordPress, HTML", Content Writer
+2-5.,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Engineer
+5-10.,"Project Management, Agile, Scrum, Stakeholder Management, Risk Management",Program Manager
+1-4.,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Associate Business Analyst
+0-2,"Web Development, HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, MySQL",Web Development Intern
+3-6.,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",Senior IT Support Engineer
+2-5.,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Marketing Specialist
+4-10.,"Financial Analysis, Excel, Financial Modeling, Budgeting, Forecasting, SQL",Senior Financial Analyst
+3-8.,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Lead Software Developer
+0-3,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography",Graphic Design Intern
+2-5.,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Data Analyst
+3-7.,"IT Support, Help Desk, Troubleshooting, Networking, Windows, Linux, Hardware",IT Support Manager
+5-10.,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Principal Network Engineer
+0-2,"Java, C++, Python, Git, Data Structures, Algorithms",Software Developer Intern
+2-6.,"Digital Marketing, SEO, Google Analytics, AdWords, Social Media, Content Marketing",Senior Digital Marketing Specialist
+0-2,"Java, C++, Python, Git, Data Structures, Algorithms", Software Developer
+1-4.,"Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography, Branding", Graphic Designer
+0-2,"Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Clerk
+2-5.,"HRIS, Employee Relations, Talent Acquisition, Performance Management, Training and Development",HR Generalist
+3-8.,"Project Management, Agile, Scrum, Stakeholder Management, Risk Management",Project Manager
+0-3,"HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, MySQL", Web Developer
+1-3.,"Content Writing, Blogging, SEO, Social Media, Copywriting, WordPress, HTML",Content Writer
+0-2,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media",Marketing Specialist
+4-10.,"Python, Data Analysis, Machine Learning, Data Wrangling, SQL, R, Visualization",Senior Data Scientist
+3-6.,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Engineer
+2-5.,"Financial Analysis, Excel, Financial Modeling, Budgeting, Forecasting, SQL",Financial Analyst
+0-2,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Data Analyst
+1-4.,"Recruitment, Employee Relations, Performance Management, Training and Development",HR Specialist
+2-5.,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Business Analyst
+3-7.,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Network Engineer
+4-10.,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Marketing Manager
+0-2,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Assistant
+2-5.,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers",Electrical Engineer
+5-10.,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Senior Software Engineer
+3-8.,"Database Management, SQL, Oracle, MySQL, PostgreSQL, Data Warehousing",Database Administrator
+0-3,"Social Media Management, Content Creation, SEO, Digital Marketing, Copywriting",Social Media Coordinator
+1-4.,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography",Graphic Designer
+3-6.,"IT Support, Help Desk, Troubleshooting, Networking, Windows, Linux, Hardware",Senior IT Support Specialist
+4-10.,"Cloud Computing, AWS, Azure, DevOps, Infrastructure, Automation",Cloud Solutions Architect
+2-5.,"HR Management, Recruitment, Employee Relations, Performance Management, Training and Development",HR Manager
+5-10.,"Marketing Strategy, Digital Marketing, SEO, Brand Management, Google Analytics",Digital Marketing Director
+0-2,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Technician
+2-5.,"Python, Machine Learning, Data Analysis, Pandas, NumPy, Scikit-Learn, TensorFlow",Data Scientist
+3-8.,"Business Analysis, Process Improvement, Change Management, Agile, Scrum",Business Process Consultant
+1-3.,"Customer Service, CRM, Communication, Problem Solving, Sales Support",Customer Service Representative
+4-10.,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Lead Data Scientist
+2-6.,"Financial Reporting, Accounting, Excel, Budgeting, Forecasting, QuickBooks",Senior Accountant
+0-3,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory", IT Support Engineer
+3-7.,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers",Senior Electrical Engineer
+2-5.,"Web Development, HTML, CSS, JavaScript, PHP, WordPress, Git, SEO",Web Developer
+4-10.,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media",Marketing Director
+1-4.,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Specialist
+5-10.,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Principal Software Engineer
+3-8.,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Senior Network Engineer
+0-2,"Python, Data Analysis, Machine Learning, Data Wrangling, SQL, R, Visualization", Data Scientist
+2-5.,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography",Senior Graphic Designer
+4-8.,"Project Management, Agile, Scrum, Stakeholder Management, Risk Management",Senior Project Manager
+2-5.,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Specialist
+1-4.,"Digital Marketing, SEO, Google Analytics, AdWords, Social Media, Content Marketing",Digital Marketing Specialist
+3-7.,"Database Management, SQL, Oracle, MySQL, PostgreSQL, Data Warehousing",Senior Database Administrator
+0-2,"JavaScript, React, HTML, CSS, Git, Web Development", Frontend Developer
+5-10.,"HR Management, Talent Acquisition, Employee Relations, Performance Management, HRIS",HR Director
+2-6.,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Senior Business Analyst
+0-3,"Customer Service, CRM, Communication, Problem Solving, Sales Support",Customer Support Specialist
+4-10.,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Chief Marketing Officer (CMO)
+1-4.,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Technician
+3-8.,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Senior Data Analyst
+0-2,"Content Writing, Blogging, SEO, Social Media, Copywriting, WordPress, HTML", Content Writer
+2-5.,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Engineer
+5-10.,"Project Management, Agile, Scrum, Stakeholder Management, Risk Management",Program Manager
+1-4.,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Associate Business Analyst
+0-2,"Web Development, HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, MySQL",Web Development Intern
+3-6.,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",Senior IT Support Engineer
+2-5.,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Marketing Specialist
+4-10.,"Financial Analysis, Excel, Financial Modeling, Budgeting, Forecasting, SQL",Senior Financial Analyst
+3-8.,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Lead Software Developer
+0-3,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography",Graphic Design Intern
+2-5.,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Data Analyst
+3-7.,"IT Support, Help Desk, Troubleshooting, Networking, Windows, Linux, Hardware",IT Support Manager
+5-10.,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Principal Network Engineer
+0-2,"Java, C++, Python, Git, Data Structures, Algorithms",Software Developer Intern
+2-6.,"Digital Marketing, SEO, Google Analytics, AdWords, Social Media, Content Marketing",Senior Digital Marketing Specialist
+4-10.,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers",Principal Electrical Engineer
+1-4.,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Specialist
+5-10.,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Lead Business Analyst
+0-2,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software", IT Technician
+3-6.,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Senior Marketing Specialist
+2-5.,"Python, Machine Learning, Data Analysis, Pandas, NumPy, Scikit-Learn, TensorFlow",Data Scientist
+4-10.,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Principal Software Engineer
+3-8.,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Senior Network Engineer
+0-2,"Python, Data Analysis, Machine Learning, Data Wrangling, SQL, R, Visualization", Data Scientist
+2-5.,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography",Senior Graphic Designer
+4-8.,"Project Management, Agile, Scrum, Stakeholder Management, Risk Management",Senior Project Manager
+2-5.,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Specialist
+1-4.,"Digital Marketing, SEO, Google Analytics, AdWords, Social Media, Content Marketing",Digital Marketing Specialist
+3-7.,"Database Management, SQL, Oracle, MySQL, PostgreSQL, Data Warehousing",Senior Database Administrator
+0-2,"JavaScript, React, HTML, CSS, Git, Web Development", Frontend Developer
+5-10.,"HR Management, Talent Acquisition, Employee Relations, Performance Management, HRIS",HR Director
+2-6.,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Senior Business Analyst
+0-3,"Customer Service, CRM, Communication, Problem Solving, Sales Support",Customer Support Specialist
+4-10.,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Chief Marketing Officer (CMO)
+1-4.,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Technician
+3-8.,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Senior Data Analyst
+0-2,"Content Writing, Blogging, SEO, Social Media, Copywriting, WordPress, HTML", Content Writer
+2-5.,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Engineer
+5-10.,"Project Management, Agile, Scrum, Stakeholder Management, Risk Management",Program Manager
+1-4.,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Associate Business Analyst
+0-2,"Web Development, HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, MySQL",Web Development Intern
+3-6.,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",Senior IT Support Engineer
+2-5.,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Marketing Specialist
+4-10.,"Financial Analysis, Excel, Financial Modeling, Budgeting, Forecasting, SQL",Senior Financial Analyst
+3-8.,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Lead Software Developer
+0-3,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography",Graphic Design Intern
+2-5.,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Data Analyst
+3-7.,"IT Support, Help Desk, Troubleshooting, Networking, Windows, Linux, Hardware",IT Support Manager
+5-10.,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Principal Network Engineer
+0-2,"Java, C++, Python, Git, Data Structures, Algorithms",Software Developer Intern
+2-6.,"Digital Marketing, SEO, Google Analytics, AdWords, Social Media, Content Marketing",Senior Digital Marketing Specialist
+0-2,"Java, C++, Python, Git, Data Structures, Algorithms", Software Developer
+1-4.,"Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography, Branding", Graphic Designer
+0-2,"Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Clerk
+2-5.,"HRIS, Employee Relations, Talent Acquisition, Performance Management, Training and Development",HR Generalist
+3-8.,"Project Management, Agile, Scrum, Stakeholder Management, Risk Management",Project Manager
+0-3,"HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, MySQL", Web Developer
+1-3.,"Content Writing, Blogging, SEO, Social Media, Copywriting, WordPress, HTML",Content Writer
+0-2,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media",Marketing Specialist
+4-10.,"Python, Data Analysis, Machine Learning, Data Wrangling, SQL, R, Visualization",Senior Data Scientist
+3-6.,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Engineer
+2-5.,"Financial Analysis, Excel, Financial Modeling, Budgeting, Forecasting, SQL",Financial Analyst
+0-2,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Data Analyst
+1-4.,"Recruitment, Employee Relations, Performance Management, Training and Development",HR Specialist
+2-5.,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Business Analyst
+3-7.,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Network Engineer
+4-10.,"Marketing, SEO, Google Analytics, AdWords, Content Marketing, Social Media Marketing, Email Marketing",Marketing Manager
+0-2,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Assistant
+2-5.,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers",Electrical Engineer
+5-10.,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Senior Software Engineer
+3-8.,"Database Management, SQL, Oracle, MySQL, PostgreSQL, Data Warehousing",Database Administrator
+0-3,"Social Media Management, Content Creation, SEO, Digital Marketing, Copywriting",Social Media Coordinator
+1-4.,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography",Graphic Designer
+3-6.,"IT Support, Help Desk, Troubleshooting, Networking, Windows, Linux, Hardware",Senior IT Support Specialist
+4-10.,"Cloud Computing, AWS, Azure, DevOps, Infrastructure, Automation",Cloud Solutions Architect
+2-5.,"HR Management, Recruitment, Employee Relations, Performance Management, Training and Development",HR Manager
+5-10.,"Marketing Strategy, Digital Marketing, SEO, Brand Management, Google Analytics",Digital Marketing Director
+0-2,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Technician
+2-5.,"Python, Machine Learning, Data Analysis, Pandas, NumPy, Scikit-Learn, TensorFlow",Data Scientist
+3-8.,"Business Analysis, Process Improvement, Change Management, Agile, Scrum",Business Process Consultant
+1-3.,"Customer Service, CRM, Communication, Problem Solving, Sales Support",Customer Service Representative
+4-10.,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Lead Data Scientist
+2-6.,"Financial Reporting, Accounting, Excel, Budgeting, Forecasting, QuickBooks",Senior Accountant
+0-3,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory", IT Support Engineer
+3-7.,"Electrical Engineering, Circuit Design, CAD, PCB Design, Simulation, Testing, Microcontrollers",Senior Electrical Engineer
+2-5.,"Web Development, HTML, CSS, JavaScript, PHP, WordPress, Git, SEO",Web Developer
+4-10.,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media",Marketing Director
+1-4.,"Data Entry, Excel, Reporting, Data Cleaning, Attention to Detail, Typing, Communication",Data Entry Specialist
+5-10.,"Software Development, Java, C++, Python, Git, Data Structures, Algorithms",Principal Software Engineer
+3-8.,"Networking, Cisco, Firewall, Security, VPN, Linux, Troubleshooting",Senior Network Engineer
+0-2,"Python, Data Analysis, Machine Learning, Data Wrangling, SQL, R, Visualization", Data Scientist
+2-5.,"Graphic Design, Adobe Creative Suite, Photoshop, Illustrator, InDesign, Typography",Senior Graphic Designer
+4-8.,"Project Management, Agile, Scrum, Stakeholder Management, Risk Management",Senior Project Manager
+2-5.,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Support Specialist
+1-4.,"Digital Marketing, SEO, Google Analytics, AdWords, Social Media, Content Marketing",Digital Marketing Specialist
+3-7.,"Database Management, SQL, Oracle, MySQL, PostgreSQL, Data Warehousing",Senior Database Administrator
+0-2,"JavaScript, React, HTML, CSS, Git, Web Development", Frontend Developer
+5-10.,"HR Management, Talent Acquisition, Employee Relations, Performance Management, HRIS",HR Director
+2-6.,"Business Analysis, Requirements Gathering, Process Improvement, UML, BPMN, Agile, SQL",Senior Business Analyst
+0-3,"Customer Service, CRM, Communication, Problem Solving, Sales Support",Customer Support Specialist
+4-10.,"Marketing, Brand Strategy, Digital Marketing, SEO, Content Creation, Social Media, Google Analytics",Chief Marketing Officer (CMO)
+1-4.,"IT Support, Help Desk, Troubleshooting, Windows, MacOS, Hardware, Software",IT Technician
+3-8.,"Data Science, Python, R, Machine Learning, Data Cleaning, Data Wrangling, Visualization",Senior Data Analyst
+0-2,"Content Writing, Blogging, SEO, Social Media, Copywriting, WordPress, HTML", Content Writer
+2-5.,"IT Support, Troubleshooting, Networking, Windows, Linux, Active Directory, Scripting",IT Support Engineer
+5-10.,"Project Management, Agile, Scrum, Stakeholder Management, Risk Management",Program Manager

@@ -1,0 +1,116 @@
+{% extends "layout.html" %}
+{% block title %}Dashboard{% endblock %}
+{% block content %}
+
+
+<div class="container">
+    <form id="job-form" method="POST" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label for="pdf" class="form-label">Upload your resume (PDF only)</label>
+            <input class="form-control" type="file" id="pdf" name="pdf" accept=".pdf" required>
+        </div>
+        <div class="mb-3">
+            <label for="location" class="form-label">Preferred Job Location</label>
+            <input class="form-control" type="text" id="location" name="location" placeholder="Enter location" required>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+    <div id="loading-spinner" class="spinner-border" role="status" style="display: none;">
+        <span class="visually-hidden"> . </span>
+    </div>
+    
+    <div id="job-results" {% if jobs.empty %}style="display:none;"{% endif %}>
+        {% if not jobs.empty %}
+            <h2>Predicted Jobs in {{ location }}</h2>
+            <table class="job-table">
+                <thead>
+                    <tr>
+                        <th>Job Title</th>
+                        <th>Company Name</th>
+                        <th>Time Posted</th>
+                        <th>Link</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for _, job in jobs.iterrows() %}
+                        <tr>
+                            <td>{{ job['job_title'] }}</td>
+                            <td>{{ job['company_name'] }}</td>
+                            <td>{{ job['time_posted'] }}</td>
+                            <td><a href="{{ job['link'] }}" target="_blank" class="job-link">View Job</a></td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% endif %}
+    
+        <div id="job-result2" {% if not response_dict %}style="display:none;"{% endif %}>
+        {% if response_dict %}
+            <div class="details-section">
+                <h2>Extracted Details:</h2>
+                <ul>
+                    <li><strong>Name:</strong> {{ response_dict['Candidate Name'] }}</li>
+                    <li><strong>Email:</strong> {{ response_dict['Email ID'] }}</li>
+                    <li><strong>Phone:</strong> {{ response_dict['Phone Number'] }}</li>
+                    <li><strong>Highest Qualification:</strong> {{ response_dict['Highest Qualification'] }}</li>
+                    <li><strong>Skills:</strong> {{ response_dict['Skills'] | join(', ') }}</li>
+                    <li><strong>Languages:</strong> {{ response_dict['Languages'] | join(', ') }}</li>
+                    <li><strong>Companies:</strong>
+                        <ul class="nested-list">
+                            {% for company, role in response_dict['Companies'].items() %}
+                                <li>{{ company }}: {{ role }}</li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                    <li><strong>Experience:</strong>
+                        <ul class="nested-list">
+                            {% for position, years in response_dict['Experience'].items() %}
+                                <li>{{ position }}: {{ years }} years</li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                    <li><strong>Total Years of Experience:</strong> {{ response_dict['Total Years of Experience'] }}</li>
+                </ul>
+            </div>
+    
+            <div class="result-section">
+                <h2>Predicted Job Title:</h2>
+                <p class="result-highlight">{{ predicted_job_title }}</p>
+    
+                <h2>Closest Matching Job Title:</h2>
+                <p class="result-highlight">{{ closest_job_title }}</p>
+    
+                <h2>Experience in Closest Matching Role:</h2>
+                <p class="result-highlight">{{ user_exp }} years</p>
+    
+                <h2>Similarity Score:</h2>
+                <p class="result-highlight">{{ similarity_score }}</p>
+            </div>
+    
+            <form method="POST" enctype="multipart/form-data" class="clear-form">
+                <button type="submit" name="clear" class="btn btn-clear">Clear Page</button>
+            </form>
+        {% endif %}
+    </div>    
+</div>
+<script>
+    document.querySelector('form').addEventListener('submit', function() {
+        document.getElementById('loading-spinner').style.display = 'block';
+    });
+    
+    document.getElementById('clear-button').addEventListener('click', function() {
+        // Reset the form
+        document.getElementById('job-form').reset();
+        
+        // Clear the job results and extracted details sections
+        document.getElementById('job-results').innerHTML = '';
+
+        document.getElementById('job-result2').innerHTML = '';
+        
+        // Hide the loading spinner if it's visible
+        document.getElementById('loading-spinner').style.display = 'none';
+    });
+</script>
+{% endblock %}

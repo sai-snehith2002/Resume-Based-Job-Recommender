@@ -1,0 +1,67 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+
+<!-- Hero Section -->
+<section id="hero">
+    <div class="hero-content">
+        <h1>Welcome to Your Personalized Job Search Assistant</h1>
+        <p>Upload your resume and let us do the rest.</p>
+        <a href="#how-it-works" class="btn-primary">Get Started</a>
+    </div>
+</section>
+
+<!-- How It Works Section -->
+<section id="how-it-works">
+    <h2 class="section-title">How It Works</h2>
+    <div class="steps">
+        <div class="step">
+            <i class="fas fa-user"></i>
+            <h3>1. Create Your Account</h3>
+            <p>Sign up and create your personal account. Your journey to finding the ideal job starts here.</p>
+        </div>
+        <div class="step">
+            <i class="fas fa-upload"></i>
+            <h3>2. Upload Your Resume</h3>
+            <p>Once you're logged in, easily upload your resume to our system. No need to fill out lengthy forms – your resume does the talking.</p>
+        </div>
+        <div class="step">
+            <i class="fas fa-map-marker-alt"></i>
+            <h3>3. Specify Your Location</h3>
+            <p>Let us know the location where you're seeking job opportunities, whether it’s your hometown or a new city you’re excited to explore.</p>
+        </div>
+        <!-- Add more steps as needed -->
+    </div>
+</section>
+
+<!-- CTA Section -->
+<section id="cta">
+    <div class="cta-content">
+        <h2>Your Future, Just a Click Away</h2>
+        <p>With our automated job search system, finding the right job has never been easier. Start your journey today and take the first step towards your dream career!</p>
+        <a href="#" class="btn-secondary">Get Started</a>
+    </div>
+</section>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+    // Select the 'Get Started' button
+    const getStartedButton = document.querySelector('.btn-primary[href="#how-it-works"]');
+
+    // Add a click event listener to the button
+    getStartedButton.addEventListener('click', function(event) {
+        // Prevent the default anchor behavior
+        event.preventDefault();
+
+        // Get the target section (how-it-works)
+        const targetSection = document.querySelector('#how-it-works');
+
+        // Scroll to the target section smoothly
+        targetSection.scrollIntoView({
+            behavior: 'smooth'
+        });
+    });
+});
+
+</script>
+{% endblock %}
