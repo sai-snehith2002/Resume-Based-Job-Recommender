@@ -94,22 +94,31 @@ Database:
 🚀 System Workflow
 -----------------------------------------------------
 
+<img width="1896" height="873" alt="home page" src="https://github.com/user-attachments/assets/48da0efd-abc9-4a29-b569-6cce81a9b6b1" />
+
 1. User Registration
 --------------------
 - User creates account  
 - Passwords hashed for security  
 - Redirected to Login  
 
+<img width="1892" height="821" alt="sign up page" src="https://github.com/user-attachments/assets/86a9612b-9877-4c3e-be78-aa9ef3bc8f44" />
+
 2. User Login
 -------------
 - Credentials verified  
 - Successful login → Dashboard  
 
+<img width="1905" height="876" alt="login page" src="https://github.com/user-attachments/assets/0d1a4fd3-1e44-48de-9781-ba84a410e688" />
+
 3. Upload Resume
 ----------------
 - User uploads PDF resume  
 - System extracts text  
-- Gemini API processes and returns structured fields  
+- Gemini API processes and returns structured fields
+
+<img width="1902" height="873" alt="Logged In resume upload page" src="https://github.com/user-attachments/assets/0cd07dec-becf-4f56-b6bf-95230f977bc6" />
+
 
 4. Intelligent Resume Understanding
 -----------------------------------
